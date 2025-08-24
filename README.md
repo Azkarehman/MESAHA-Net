@@ -51,7 +51,7 @@ Each training `.npy` file should contain **5 channels**:
 | 3       | ROI cue / mask (zeros if none)     |
 | 4       | Ground-truth mask (binary {0,1})   |
 
-**Folder layout:**
+** Folder layout: **
 
 Patch size is **96×96** by default.
 
