@@ -38,7 +38,7 @@ pip install numpy scikit-image tqdm
 
 # Optional (for preprocessing CTs/DICOMs)
 pip install pydicom SimpleITK nibabel
-
+```
 ## Data format
 
 Each training `.npy` file should contain **5 channels**:
