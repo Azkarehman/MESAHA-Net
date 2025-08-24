@@ -47,11 +47,6 @@ This leads to more precise 3D segmentation across heterogeneous lung nodules.
 - Inference time: ~48 ms per slice  
 
 MESAHA-Net **outperforms existing methods** while being faster and lighter.
-
-<p align="center">
-  <img src="plots.png" alt="Performance Comparison" width="750"/>
-</p>
-
 ---
 
 ## Key Advantages
