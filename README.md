@@ -21,7 +21,7 @@ MESAHA-Net introduces a **multi-encoder, self-adaptive hard attention mechanism*
 ## Architecture
 
 <p align="center">
-  <img src="MESHA_Net.png" alt="MESAHA-Net Architecture" width="700"/>
+  <img src="fig/MESHA_Net.png" alt="MESAHA-Net Architecture" width="700"/>
 </p>
 
 MESAHA-Net integrates **contextual 2D and 3D information** via multi-input encoders.  
