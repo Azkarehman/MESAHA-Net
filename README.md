@@ -19,7 +19,6 @@ MESAHA-Net introduces:
 
 ---
 
----
 
 ## Installation
 
@@ -63,5 +62,6 @@ Run:
 
 ```bash
 python train.py
+```
 
 
